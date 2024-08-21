@@ -1,8 +1,6 @@
 # Data Scientist
 
-# 🌟 My GitHub Portfolio
-
-Welcome to my GitHub portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in software development, data science, and other technical fields.
+Welcome to my  portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in data science, and other technical fields.
 
 ## 📂 Projects
 
@@ -23,11 +21,10 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, sh
 
 ## 🔧 Skills
 
-- **Programming Languages:** Python, JavaScript, Java, C++, etc.
-- **Web Development:** HTML, CSS, React, Node.js, etc.
-- **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow, etc.
-- **DevOps:** Docker, Kubernetes, CI/CD, etc.
-- **Tools & Platforms:** Git, GitHub, VS Code, AWS, etc.
+- **Programming Languages:** Python, R, C++, C#, etc.
+- **Data Science:** Pandas, NumPy, StatsModels, scikit-learn, TensorFlow, etc.
+- **DevOps:** Docker, etc.
+- **Tools & Platforms:** Git, GitHub, VS Code, AWS, Jupiter Notebook, etc.
 
 ## 🎓 Education
 
@@ -47,7 +44,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, sh
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com
+- **Email:** ngoc030103@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 - **Portfolio Website:** [Your Portfolio Website](https://www.yourwebsite.com)
 
