@@ -1,19 +1,13 @@
 # Data Scientist
 
-Welcome to my  portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in data science, and other technical fields.
+Welcome to my portfolio! Here you'll find a collection of my projects, showcasing my skills and experience in data science, and other technical fields.
 
-## 📂 Projects
+## 🗃️ Projects
 
 ### 1. [Project Name](https://github.com/yourusername/project-repo)
 **Description:** Briefly describe the project, its purpose, and key features.  
 **Technologies:** List the main technologies or languages used.  
 **Highlights:** Mention any significant achievements or challenges overcome in this project.
-
-[![Streamlit App](https://img.shields.io/badge/Streamlit-View%20App-blue)](https://your-streamlit-app-link.com)
-
-You can check out my Streamlit project [here](https://your-streamlit-app-link.com).
-
-![Project Screenshot](https://your-screenshot-link.png)
 
 ### 2. [Project Name](https://github.com/yourusername/project-repo)
 **Description:** Briefly describe the project, its purpose, and key features.  
@@ -25,7 +19,7 @@ You can check out my Streamlit project [here](https://your-streamlit-app-link.co
 **Technologies:** List the main technologies or languages used.  
 **Highlights:** Mention any significant achievements or challenges overcome in this project.
 
-## 🔧 Skills
+## 🧑🏻‍💻 Skills
 
 - **Programming Languages:** Python, R, C++, C#, etc.
 - **Data Science:** Pandas, NumPy, StatsModels, scikit-learn, TensorFlow, etc.
@@ -38,7 +32,7 @@ You can check out my Streamlit project [here](https://your-streamlit-app-link.co
 - **University:** Name of the university
 - **Year:** Year of graduation
 
-## 💼 Work Experience
+## 📋 Work Experience
 
 ### [Company Name](https://www.companywebsite.com) - Job Title
 **Duration:** Month Year - Month Year  
@@ -48,11 +42,12 @@ You can check out my Streamlit project [here](https://your-streamlit-app-link.co
 **Duration:** Month Year - Month Year  
 **Description:** Briefly describe your role and responsibilities. Highlight key projects or accomplishments.
 
-## 📫 Contact
+## 🌐 Contact
 
+- **Phone number:** 0764647099
 - **Email:** ngoc030103@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourwebsite.com)
+- **LinkedIn:** [Nguyen Pham Bich Ngoc](www.linkedin.com/in/nguyen-pham-bich-ngoc-030103jangemm)
+- **Portfolio Website:** [Ngoc Nguyen]([https://lucyneee.github.io/ex_porfolio/])
 
 ---
 
