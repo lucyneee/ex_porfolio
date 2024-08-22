@@ -9,6 +9,12 @@ Welcome to my  portfolio! Here you'll find a collection of my projects, showcasi
 **Technologies:** List the main technologies or languages used.  
 **Highlights:** Mention any significant achievements or challenges overcome in this project.
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-View%20App-blue)](https://your-streamlit-app-link.com)
+
+You can check out my Streamlit project [here](https://your-streamlit-app-link.com).
+
+![Project Screenshot](https://your-screenshot-link.png)
+
 ### 2. [Project Name](https://github.com/yourusername/project-repo)
 **Description:** Briefly describe the project, its purpose, and key features.  
 **Technologies:** List the main technologies or languages used.  
