@@ -4,20 +4,9 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 ## 🗃️ Projects
 
-### 1. [Project Name](https://github.com/yourusername/project-repo)
-**Description:** Briefly describe the project, its purpose, and key features.  
-**Technologies:** List the main technologies or languages used.  
-**Highlights:** Mention any significant achievements or challenges overcome in this project.
-
-### 2. [Project Name](https://github.com/yourusername/project-repo)
-**Description:** Briefly describe the project, its purpose, and key features.  
-**Technologies:** List the main technologies or languages used.  
-**Highlights:** Mention any significant achievements or challenges overcome in this project.
-
-### 3. [Project Name](https://github.com/yourusername/project-repo)
-**Description:** Briefly describe the project, its purpose, and key features.  
-**Technologies:** List the main technologies or languages used.  
-**Highlights:** Mention any significant achievements or challenges overcome in this project.
+###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
+**Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
+**Technologies:** Python - Pandas, OpenCV, NumPy, scikit-image, Matplotlib
 
 ## 🧑🏻‍💻 Skills
 
@@ -28,19 +17,10 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 ## 🎓 Education
 
-- **Degree:** Your degree (e.g., B.Sc. in Computer Science)
-- **University:** Name of the university
-- **Year:** Year of graduation
+- **Degree:** A final-year student majoring in Data Science 
+- **University:** Ho Chi Minh University of Banking
 
-## 📋 Work Experience
 
-### [Company Name](https://www.companywebsite.com) - Job Title
-**Duration:** Month Year - Month Year  
-**Description:** Briefly describe your role and responsibilities. Highlight key projects or accomplishments.
-
-### [Company Name](https://www.companywebsite.com) - Job Title
-**Duration:** Month Year - Month Year  
-**Description:** Briefly describe your role and responsibilities. Highlight key projects or accomplishments.
 
 ## 🌐 Contact
 
