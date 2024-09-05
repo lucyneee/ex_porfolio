@@ -24,8 +24,8 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 - **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP - Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
 
 ## 📜Certificate
-- [TOEIC](assets/img/mos): 920
-- **MOS:** Microsoft Word, Microsoft PowerPoint, Microsoft Excel
+- [TOEIC](assets/img/Toeic.jpg): 920
+- [MOS](assets/img/mos): Microsoft Word, Microsoft PowerPoint, Microsoft Excel
 
 
 ## 🌐 Contact
