@@ -6,6 +6,7 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 ###  [PAN Card Tampering Detection](https://github.com/lucyneee/pan-card-tempering/blob/main/PAN_Card_Tampering_Detection_.ipynb)
 **Description:** The "PAN Card Tampering Detection" project aims to detect tampering in images of PAN cards by comparing a provided image with an original reference image. The purpose of the project is to identify whether a PAN card has been altered or tampered with, which is crucial for maintaining the integrity of identity verification processes.
+
 **Technologies:** Python - Pandas, OpenCV, NumPy, scikit-image, Matplotlib
 
 ## 🧑🏻‍💻 Skills
@@ -20,6 +21,12 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 - **Degree:** A final-year student majoring in Data Science 
 - **University:** Ho Chi Minh University of Banking
 
+- **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP
+- Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
+
+## 📜Certificate
+- **TOEIC:** 920
+- **MOS:** Microsoft Word, Microsoft PowerPoint, Microsoft Excel
 
 
 ## 🌐 Contact
