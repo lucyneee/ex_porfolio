@@ -19,10 +19,10 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 ## 🎓 Education
 
 - **Degree:** A final-year student majoring in Data Science 
-- **University:** Ho Chi Minh University of Banking
+-   **University:** Ho Chi Minh University of Banking
 
 - **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP
-- Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
+-   Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
 
 ## 📜Certificate
 - **TOEIC:** 920
