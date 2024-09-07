@@ -9,6 +9,12 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 **Technologies:** Python - Pandas, OpenCV, NumPy, scikit-image, Matplotlib
 
+### [Fake News Classifier](https://github.com/lucyneee/Fake-News-Classifier/blob/main/Fake_News_Classifier.ipynb)
+**Description:** This project aims to build a Fake News Classifier using machine learning techniques -  Natural Language Processing (NLP). Given a dataset with news articles, the model is trained to predict whether a piece of news is real or fake based on the provided text.
+
+**Technologies:** Python - Pandas, nlp_utils, seaborn, sklearn (train_test_split, CountVectorizer, TfidfVectorizer)
+
+
 ## 🧑🏻‍💻 Skills
 
 - **Programming Languages:** Python, R, C++, C#, etc.
