@@ -26,8 +26,8 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 ## 🎓 Education
 
 - **Degree:** Bachelor of Data Science of Business (*Department of Economic Mathematics*) 
--   Ho Chi Minh University of Banking
--   Final-year student (Expected Graduation: April 2024)
+-     Ho Chi Minh University of Banking
+-     Final-year student (Expected Graduation: April 2024)
 
 - **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP - Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
 
