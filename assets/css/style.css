@@ -1,6 +1,14 @@
+/* Adjust the profile image size */
+img {
+  max-width: 200px; /* Change this value to control the width */
+  height: auto;     /* Ensures the image maintains its aspect ratio */
+  border-radius: 50%; /* Optional: Makes the image circular */
+  display: block;
+  margin: 0 auto; /* Centers the image */
+}
 /* Custom CSS to adjust page width */
 body {
-  max-width: 900px; /* Adjust this value to your preferred width */
+  max-width: 1200px; /* Change this value to your preferred width */
   margin: 0 auto;    /* Centers the content */
   padding: 20px;     /* Optional padding */
 }
