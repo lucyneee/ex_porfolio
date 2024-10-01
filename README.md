@@ -17,15 +17,17 @@ Welcome to my portfolio! Here you'll find a collection of my projects, showcasin
 
 ## 🧑🏻‍💻 Skills
 
-- **Programming Languages:** Python, R, C++, C#, etc.
-- **Data Science:** Pandas, NumPy, StatsModels, scikit-learn, TensorFlow, etc.
-- **DevOps:** Docker, etc.
-- **Tools & Platforms:** Git, GitHub, VS Code, AWS, Jupiter Notebook, etc.
+- **Programming Languages:** Python, R, C++, C#, SQL.
+- **Data Science:** Pandas, NumPy, StatsModels, scikit-learn, TensorFlow, SQL.
+- **Visualization:** Matplotlib, Seaborn, Plotly, Superset.
+- **DevOps:** Docker
+- **Tools & Platforms:** Git, GitHub, VS Code, Jupiter Notebook, Google Colab
 
 ## 🎓 Education
 
-- **Degree:** A final-year student majoring in Data Science 
--   **University:** Ho Chi Minh University of Banking
+- **Degree:** Bachelor of Data Science of Business (*Department of Economic Mathematics*) 
+-   Ho Chi Minh University of Banking
+-   Final-year student (Expected Graduation: April 2024)
 
 - **Udemy Course:** THE DATA SCIENCE COURSE: COMPLETE DATA SCIENCE BOOTCAMP - Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning
 
