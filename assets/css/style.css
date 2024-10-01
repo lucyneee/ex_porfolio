@@ -1,10 +1,10 @@
 /* Adjust the profile image size */
 img {
-  max-width: 200px; /* Change this value to control the width */
-  height: auto;     /* Ensures the image maintains its aspect ratio */
-  border-radius: 50%; /* Optional: Makes the image circular */
-  display: block;
-  margin: 0 auto; /* Centers the image */
+  max-width: 100px; /* Set this to a smaller size, adjust as needed */
+  height: auto;     /* Maintain the aspect ratio */
+  border-radius: 10px; /* Optional: round the corners */
+  display: block;   /* Ensure it behaves like a block element */
+  margin: 0 auto;   /* Centers the image */
 }
 /* Custom CSS to adjust page width */
 body {
@@ -12,6 +12,12 @@ body {
   margin: 0 auto; /* Centers the content horizontally */
   padding: 20px;  /* Adds padding around the content */
   box-sizing: border-box; /* Ensures padding is included within the width */
+  font-family: 'Montserrat', sans-serif; /* Sets the font to Montserrat */
+}
+/* Optional: Update headings to use a different weight */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700; /* Bold weight for headings */
 }
 
 
